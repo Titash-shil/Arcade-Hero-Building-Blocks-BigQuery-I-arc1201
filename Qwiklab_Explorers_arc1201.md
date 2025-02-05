@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Arcade-Hero-Building-Blocks-GCS-I-arc1200/refs/heads/main/qwiklab_explorers_arc1200.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Arcade-Hero-Building-Blocks-BigQuery-I-arc1201/refs/heads/main/qwiklab_explorers_gsp1201.sh
 
-sudo chmod +x qwiklab_explorers_arc1200.sh
+sudo chmod +x qwiklab_explorers_gsp1201.sh
 
-./qwiklab_explorers_arc1200.sh
+./qwiklab_explorers_gsp1201.sh
 ```
 
 ---
